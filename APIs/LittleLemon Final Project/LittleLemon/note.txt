@@ -1,0 +1,15 @@
+username=jimmydoe
+password=lemon@123!
+email=jimmydoe@lemon.com
+ae79f0921e3137410a1bc17c80546a8c8097bed6
+
+username=johndoe
+password=lemon@123
+email=johndoe@lemon.com
+49b95b3546e29aa99c295a3ea036742d37253cb8
+
+admin
+admin@lemon!
+
+dama
+de9ddeb243f1e078eb907cbd67c84a807aabab67

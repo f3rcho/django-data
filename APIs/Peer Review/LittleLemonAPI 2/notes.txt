@@ -1,0 +1,9 @@
+The superuser has the username gavin and the password gavin1
+
+Given below are the user account ids and the associated password. All of them have the same password gargamel1692*
+
+2 rachael - Manager group
+3 garth - Delivery Crew Group
+5 orville - Delivery crew Group
+
+The other customer names are 6 chad, 4 keri, 7 keith
